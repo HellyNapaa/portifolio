@@ -7,7 +7,7 @@ export default function IndexBody() {
             <h1 className="text-3xl font-sans"><span className="font-extrabold">HI! </span>MY NAME IS</h1>
             <h2 className="text-[150px] font-serif font-bold leading-none">Hellen</h2>
             <h3 className="text-[150px] font-serif font-bold leading-none">Napoleão</h3>
-            <p className="text-[20px] font-serif max-w-xl mt-14">BÃO MEMO</p>
+            <p className="text-[20px] font-serif max-w-xl mt-14"></p>
         </section>
     </main>
   );
